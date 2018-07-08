@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gtnhtweaks",
+  "name": "GTNH Tweaks",
+  "description": "Simple ASM tweaks for GT: New Horizons modpack",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ugachaga"],
+  "credits": "GloomyFolken for hooklib",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
